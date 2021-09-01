@@ -1,4 +1,4 @@
-Ejercicio 2:
+Modulo-1
 
 - Ejecutar el ejercicio del Pastor Alemán dirigido en los videos de la sesión
 
